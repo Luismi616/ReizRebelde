@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-color:#000000;
+	font-family: "Rowdies", sans-serif;
+}
+.navbar-brand{
+	font-family: "Permanent Marker", system-ui;
+	}
+.navbar{
+background-color:red;
+}
+.card-text{
+	 font-family: "Oswald", sans-serif;
+	}
+.card-title{
+	font-family: "Permanent Marker", system-ui;
+	}
+.red{ 
+	background-color: #FF5659;
+	} 
+.negro{
+	color: black;
+	}
+.rojo{
+	color:red;
+	}
+.blanco{
+	color:white;
+	}
